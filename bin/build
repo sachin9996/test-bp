@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -fSLO "https://subtrace.dev/download/$(uname -s)/$(uname -m)/subtrace" && chmod +x ./subtrace
+
