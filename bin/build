@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/sh
 curl -fsSL https://subtrace.dev/install.sh | sh
